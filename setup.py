@@ -18,6 +18,7 @@ extras_require = {
 
 packages = [
     'catline',
+    'catline.adapters',
 ]
 
 setup(
